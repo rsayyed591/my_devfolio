@@ -681,7 +681,7 @@ main{
         grid-gap: 15px;
     }
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 400px) {
     #portfolio .port-row {
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 15px;
